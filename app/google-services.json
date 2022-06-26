@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620214233307",
+    "firebase_url": "https://underwaterrov-3bede-default-rtdb.firebaseio.com",
+    "project_id": "underwaterrov-3bede",
+    "storage_bucket": "underwaterrov-3bede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620214233307:android:3343c58923456cf70484fe",
+        "android_client_info": {
+          "package_name": "com.rov.waterrov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620214233307-1g5nurc79ogilfn0j73g4e4csfj1fc50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3neraHaCPPRXA84u-LesYabtvKuw5XZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620214233307-1g5nurc79ogilfn0j73g4e4csfj1fc50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
